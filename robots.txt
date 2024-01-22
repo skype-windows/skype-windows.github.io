@@ -18,4 +18,3 @@ Disallow: /file
 host: https://skype-windows.github.io
 
 Sitemap: https://skype-windows.github.io/sitemap.xml
-Sitemap: https://skype-windows.github.io/sitemap.xml.gz
