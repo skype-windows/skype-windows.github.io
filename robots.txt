@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /wp-content/themes/
+Allow: /wp-includes/js/
+Allow: /wp-content/js/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /cgi-bin
+
+User-agent: Yandex
+Allow: /wp-content/themes/
+Allow: /wp-includes/js/
+Allow: /wp-content/js/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /cgi-bin
+Disallow: /file
+
+host: https://skype-windows.github.io
+
+Sitemap: https://skype-windows.github.io/sitemap.xml
+Sitemap: https://skype-windows.github.io/sitemap.xml.gz
